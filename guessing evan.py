@@ -1,7 +1,7 @@
 
 
 
-you = "spongebob quarepants"
+you = "spongebob squarepants"
 question = ""
 yes = 0
 no = 1
